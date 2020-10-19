@@ -1,0 +1,20 @@
+{% for field in form %}
+{% if field.name == 'features' %} 
+    {% regroup field by attrs.cat_name as list %}
+
+    <ul>
+    {% for el in list %}
+        <li>{{el.grouper}}
+        <ul>
+            {% for e in el.list %}
+                {{e}} <br />
+            {% endfor %}
+        </ul>
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    {{field.label}}: {{field}}
+{% endif %}
+
+{% endfor %}

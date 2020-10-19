@@ -1,0 +1,16 @@
+{% extends 'admin/change_list.html' %}
+
+{% block object-tools %}
+    <div>
+        <form action="immortal/" method="POST">
+            {% csrf_token %}
+                <button type="submit">抓取近一月監所公告</button>
+        </form>
+        <form action="mortal/" method="POST">
+            {% csrf_token %}
+                <button type="submit">抓取所有歷史監所公告</button>
+        </form>
+    </div>
+    <br />
+    {{ block.super }}
+{% endblock %}

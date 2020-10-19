@@ -1,0 +1,308 @@
+[
+        {
+            "prison_area": "桃園市龜山區",
+            "prison_name": "法務部矯正署台北監獄",
+            "prison_domain_name": "https://www.tpp.moj.gov.tw/",
+            "prison_BBS": "https://www.tpp.moj.gov.tw/296713/296792/296794/Lpsimplelist"
+        },
+        {
+            "prison_area": "桃園市桃園區",
+            "prison_name": "法務部矯正署桃園監獄",
+            "prison_domain_name": "https://www.typ.moj.gov.tw/",
+            "prison_BBS": "https://www.typ.moj.gov.tw/297144/297290/Lpsimplelist"
+        },
+        {
+            "prison_area": "桃園市龍潭區",
+            "prison_name": "法務部矯正署桃園女子監獄",
+            "prison_domain_name": "https://www.tyw.moj.gov.tw/",
+            "prison_BBS": "https://www.tyw.moj.gov.tw/6031/6063/Lpsimplelist"
+        },
+        {
+            "prison_area": "新竹市",
+            "prison_name": "法務部矯正署新竹監獄",
+            "prison_domain_name": "https://www.scp.moj.gov.tw/",
+            "prison_BBS": "https://www.scp.moj.gov.tw/318915/318931/318963/"
+        },
+        {
+            "prison_area": "台中市南屯區",
+            "prison_name": "法務部矯正署台中監獄",
+            "prison_domain_name": "https://www.tcp.moj.gov.tw/",
+            "prison_BBS": "https://www.tcp.moj.gov.tw/309667/309892/"
+        },
+        {
+            "prison_area": "台中市南屯區",
+            "prison_name": "法務部矯正署台中女子監獄",
+            "prison_domain_name": "https://www.tcw.moj.gov.tw/",
+            "prison_BBS": "https://www.tcw.moj.gov.tw/310691/310817/310869/"
+        },
+        {
+            "prison_area": "彰化縣二林鎮",
+            "prison_name": "法務部矯正署彰化監獄",
+            "prison_domain_name": "https://www.chp.moj.gov.tw/",
+            "prison_BBS": "https://www.chp.moj.gov.tw/311528/311834/"
+        },
+        {
+            "prison_area": "雲林縣虎尾鎮",
+            "prison_name": "法務部矯正署雲林監獄",
+            "prison_domain_name": "https://www.ulp.moj.gov.tw/",
+            "prison_BBS": "https://www.ulp.moj.gov.tw/312584/312690/312692/"
+        },
+        {
+            "prison_area": "雲林縣虎尾鎮",
+            "prison_name": "法務部矯正署雲林第二監獄",
+            "prison_domain_name": "https://www.ulp2.moj.gov.tw/",
+            "prison_BBS": "https://www.ulp2.moj.gov.tw/296451/296499/296500/Lpsimplelist"
+        },
+        {
+            "prison_area": "嘉義縣鹿草鄉",
+            "prison_name": "法務部矯正署嘉義監獄",
+            "prison_domain_name": "https://www.cyp.moj.gov.tw/",
+            "prison_BBS": "https://www.cyp.moj.gov.tw/297326/297435/297437/"
+        },
+        {
+            "prison_area": "台南市歸仁區",
+            "prison_name": "法務部矯正署台南監獄",
+            "prison_domain_name": "https://www.tnp.moj.gov.tw/",
+            "prison_BBS": "https://www.tnp.moj.gov.tw/314653/314744/314745/Lpsimplelist"
+        },
+        {
+            "prison_area": "台南市山上區",
+            "prison_name": "法務部矯正署明德外役監獄",
+            "prison_domain_name": "https://www.mtp.moj.gov.tw/",
+            "prison_BBS": "https://www.mtp.moj.gov.tw/13536/13718/13720/Lpsimplelist"
+        },
+        {
+            "prison_area": "高雄市大寮區",
+            "prison_name": "法務部矯正署高雄監獄",
+            "prison_domain_name": "https://www.ksp.moj.gov.tw/",
+            "prison_BBS": "https://www.ksp.moj.gov.tw/298446/298635/729672/Lpsimplelist"
+        },
+        {
+            "prison_area": "高雄市燕巢區",
+            "prison_name": "法務部矯正署高雄第二監獄",
+            "prison_domain_name": "https://www.ksd.moj.gov.tw/",
+            "prison_BBS": "https://www.ksd.moj.gov.tw/310144/310672/310675/Lpsimplelist"
+        },
+        {
+            "prison_area": "高雄市大寮區",
+            "prison_name": "法務部矯正署高雄女子監獄",
+            "prison_domain_name": "https://www.ksw.moj.gov.tw/",
+            "prison_BBS": "https://www.ksw.moj.gov.tw/14002/14252/Lpsimplelist"
+        },
+        {
+            "prison_area": "屏東縣竹田鄉",
+            "prison_name": "法務部矯正署屏東監獄",
+            "prison_domain_name": "https://www.ptp.moj.gov.tw/",
+            "prison_BBS": "https://www.ptp.moj.gov.tw/311280/311582/311584/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣台東市",
+            "prison_name": "法務部矯正署台東監獄",
+            "prison_domain_name": "https://www.ttp.moj.gov.tw/",
+            "prison_BBS": "https://www.ttp.moj.gov.tw/312322/312779/312781/Lpsimplelist"
+        },
+        {
+            "prison_area": "花蓮縣吉安鄉",
+            "prison_name": "法務部矯正署花蓮監獄",
+            "prison_domain_name": "https://www.hlp.moj.gov.tw/",
+            "prison_BBS": "https://www.hlp.moj.gov.tw/314893/314988/314990/"
+        },
+        {
+            "prison_area": "花蓮縣光復鄉",
+            "prison_name": "法務部矯正署自強外役監獄",
+            "prison_domain_name": "https://www.jcp.moj.gov.tw/",
+            "prison_BBS": "https://www.jcp.moj.gov.tw/313903/313962/313963/"
+        },
+        {
+            "prison_area": "宜蘭縣三星鄉",
+            "prison_name": "法務部矯正署宜蘭監獄",
+            "prison_domain_name": "https://www.ilp.moj.gov.tw/",
+            "prison_BBS": "https://www.ilp.moj.gov.tw/314357/314459/743116/Lpsimplelist"
+        },
+        {
+            "prison_area": "基隆市信義區",
+            "prison_name": "法務部矯正署基隆監獄",
+            "prison_domain_name": "https://www.klp.moj.gov.tw/",
+            "prison_BBS": "https://www.klp.moj.gov.tw/258817/258832/"
+        },
+        {
+            "prison_area": "澎湖縣湖西鄉",
+            "prison_name": "法務部矯正署澎湖監獄",
+            "prison_domain_name": "https://www.php.moj.gov.tw/",
+            "prison_BBS": "https://www.php.moj.gov.tw/290902/290927/290928/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣綠島鄉",
+            "prison_name": "法務部矯正署綠島監獄",
+            "prison_domain_name": "https://www.gip.moj.gov.tw/",
+            "prison_BBS": "https://www.gip.moj.gov.tw/289577/289621/289622/Lpsimplelist"
+        },
+        {
+            "prison_area": "金門縣金湖鎮",
+            "prison_name": "法務部矯正署金門監獄",
+            "prison_domain_name": "https://www.kmp.moj.gov.tw/",
+            "prison_BBS": "https://www.kmp.moj.gov.tw/289794/289850/289851/Lpsimplelist"
+        },
+        {
+            "prison_area": "桃園市八德區",
+            "prison_name": "法務部矯正署八德外役監獄",
+            "prison_domain_name": "https://www.bdo.moj.gov.tw/",
+            "prison_BBS": "https://www.bdo.moj.gov.tw/297585/297659/297674/Lpsimplelist"
+        },
+        {
+            "prison_area": "台南市六甲區",
+            "prison_name": "法務部矯正署台南第二監獄",
+            "prison_domain_name": "https://www.tn2p.moj.gov.tw/",
+            "prison_BBS": "https://www.tn2p.moj.gov.tw/12867/12983/Lpsimplelist"
+        },
+        {
+            "prison_area": "新北市土城區",
+            "prison_name": "法務部矯正署台北看守所",
+            "prison_domain_name": "https://www.tpd.moj.gov.tw/",
+            "prison_BBS": "https://www.tpd.moj.gov.tw/290036/290240/Lpsimplelist"
+        },
+        {
+            "prison_area": "新北市土城區",
+            "prison_name": "法務部矯正署台北女子看守所",
+            "prison_domain_name": "https://www.sld.moj.gov.tw/",
+            "prison_BBS": "https://www.sld.moj.gov.tw/290395/290426/290427/"
+        },
+        {
+            "prison_area": "新竹市",
+            "prison_name": "法務部矯正署新竹看守所",
+            "prison_domain_name": "https://www.scd.moj.gov.tw/",
+            "prison_BBS": "https://www.scd.moj.gov.tw/290661/290706/290707/Lpsimplelist"
+        },
+        {
+            "prison_area": "苗栗縣苗栗市",
+            "prison_name": "法務部矯正署苗栗看守所",
+            "prison_domain_name": "https://www.mld.moj.gov.tw/",
+            "prison_BBS": "https://www.mld.moj.gov.tw/291094/291152/291115/291116/"
+        },
+        {
+            "prison_area": "台中市南屯區",
+            "prison_name": "法務部矯正署台中看守所",
+            "prison_domain_name": "https://www.tcd.moj.gov.tw/",
+            "prison_BBS": "https://www.tcd.moj.gov.tw/14456/14612/14624/14626/Lpsimplelist"
+        },
+        {
+            "prison_area": "彰化縣員林市",
+            "prison_name": "法務部矯正署彰化看守所",
+            "prison_domain_name": "https://www.chd.moj.gov.tw/",
+            "prison_BBS": "https://www.chd.moj.gov.tw/261036/261072/261075/Lpsimplelist"
+        },
+        {
+            "prison_area": "南投縣南投市",
+            "prison_name": "法務部矯正署南投看守所",
+            "prison_domain_name": "https://www.ntd.moj.gov.tw/",
+            "prison_BBS": "https://www.ntd.moj.gov.tw/264983/265083/265084/Lpsimplelist"
+        },
+        {
+            "prison_area": "嘉義縣鹿草鄉",
+            "prison_name": "法務部矯正署嘉義看守所",
+            "prison_domain_name": "https://www.cyd.moj.gov.tw/",
+            "prison_BBS": "https://www.cyd.moj.gov.tw/282214/673811/282234/Lpsimplelist"
+        },
+        {
+            "prison_area": "台南市歸仁區",
+            "prison_name": "法務部矯正署台南看守所",
+            "prison_domain_name": "https://www.tnd.moj.gov.tw/",
+            "prison_BBS": "https://www.tnd.moj.gov.tw/282545/282685/Lpsimplelist"
+        },
+        {
+            "prison_area": "屏東縣竹田鄉",
+            "prison_name": "法務部矯正署屏東看守所",
+            "prison_domain_name": "https://www.ptd.moj.gov.tw/",
+            "prison_BBS": "https://www.ptd.moj.gov.tw/282836/282896/282897/Lpsimplelist"
+        },
+        {
+            "prison_area": "花蓮縣花蓮市",
+            "prison_name": "法務部矯正署花蓮看守所",
+            "prison_domain_name": "https://www.hld.moj.gov.tw/",
+            "prison_BBS": "https://www.hld.moj.gov.tw/299257/299267/299268/Lpsimplelist"
+        },
+        {
+            "prison_area": "基隆市信義區",
+            "prison_name": "法務部矯正署基隆看守所",
+            "prison_domain_name": "https://www.kld.moj.gov.tw/",
+            "prison_BBS": "https://www.kld.moj.gov.tw/314130/314156/314157/Lpsimplelist"
+        },
+        {
+            "prison_area": "新北市新店區",
+            "prison_name": "法務部矯正署新店戒治所",
+            "prison_domain_name": "https://www.sdb.moj.gov.tw/",
+            "prison_BBS": "https://www.sdb.moj.gov.tw/315071/315107/Lpsimplelist"
+        },
+        {
+            "prison_area": "台中市南屯區",
+            "prison_name": "法務部矯正署台中戒治所",
+            "prison_domain_name": "https://www.tcj.moj.gov.tw/",
+            "prison_BBS": "https://www.tcj.moj.gov.tw/331931/331944/331945/Lpsimplelist"
+        },
+        {
+            "prison_area": "高雄市燕巢區",
+            "prison_name": "法務部矯正署高雄戒治所",
+            "prison_domain_name": "https://www.ksb.moj.gov.tw/",
+            "prison_BBS": "https://www.ksb.moj.gov.tw/333091/333149/333150/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣鹿野鄉",
+            "prison_name": "法務部矯正署台東戒治所",
+            "prison_domain_name": "https://www.ttb.moj.gov.tw/",
+            "prison_BBS": "https://www.ttb.moj.gov.tw/357151/357463/357464/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣東河鄉",
+            "prison_name": "法務部矯正署泰源技能訓練所",
+            "prison_domain_name": "https://www.tuv.moj.gov.tw/",
+            "prison_BBS": "https://www.tuv.moj.gov.tw/362849/362982/362985/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣卑南鄉",
+            "prison_name": "法務部矯正署東成技能訓練所",
+            "prison_domain_name": "https://www.dcv.moj.gov.tw/",
+            "prison_BBS": "https://www.dcv.moj.gov.tw/14844/14906/Lpsimplelist"
+        },
+        {
+            "prison_area": "台東縣台東市",
+            "prison_name": "法務部矯正署岩灣技能訓練所",
+            "prison_domain_name": "https://www.ywv.moj.gov.tw/",
+            "prison_BBS": "https://www.ywv.moj.gov.tw/331629/331659/Lpsimplelist"
+        },
+        {
+            "prison_area": "新北市土城區",
+            "prison_name": "法務部矯正署台北少年觀護所",
+            "prison_domain_name": "https://www.tpj.moj.gov.tw/",
+            "prison_BBS": "https://www.tpj.moj.gov.tw/364420/364757/364758/Lpsimplelist"
+        },
+        {
+            "prison_area": "台南市南區",
+            "prison_name": "法務部矯正署台南少年觀護所",
+            "prison_domain_name": "https://www.tnj.moj.gov.tw/",
+            "prison_BBS": "https://www.tnj.moj.gov.tw/362745/363028/363033/Lpsimplelist"
+        },
+        {
+            "prison_area": "新竹縣新豐鄉",
+            "prison_name": "誠正中學",
+            "prison_domain_name": "https://www.ctg.moj.gov.tw/",
+            "prison_BBS": "https://www.ctg.moj.gov.tw/15267/15403/15405/Lpsimplelist"
+        },
+        {
+            "prison_area": "高雄市燕巢區",
+            "prison_name": "明陽中學",
+            "prison_domain_name": "https://www.myg.moj.gov.tw/",
+            "prison_BBS": "https://www.myg.moj.gov.tw/356645/356648/356651/Lpsimplelist"
+        },
+        {
+            "prison_area": "桃園市桃園區",
+            "prison_name": "誠正中學桃園分校",
+            "prison_domain_name": "https://www.tyr.moj.gov.tw/",
+            "prison_BBS": "https://www.tyr.moj.gov.tw/357715/357786/357788/Lpsimplelist"
+        },
+        {
+            "prison_area": "彰化縣田中鎮",
+            "prison_name": "誠正中學彰化分校",
+            "prison_domain_name": "https://www.chr.moj.gov.tw/",
+            "prison_BBS": "https://www.chr.moj.gov.tw/15824/15956/15958/"
+        }
+]
