@@ -1,6 +1,44 @@
 {% extends 'admin/change_list.html' %}
 
 {% block object-tools %}
+<script type="text/javascript">
+$(document).ready(function(){
+
+});
+
+function load() {
+    setTimeout(function () {
+        $.ajax({
+            url: "../../../polls/return_pollstate",
+            type: "GET",
+            
+            dataType: 'json',  
+            success: function (result) {
+                $("#craw_process").empty();
+                var crawler_waiting = 0;
+                $.each(result, function (rowKey, row) {
+                    if(rowKey == "news_count")
+                        $("#craw_process").append('<p ><h4>資料庫裡一共有 <b>' + row + '</b>篇公告</h4></p>');
+                    else if(rowKey == "crawlering_prison_name") {
+                        if(row.length == 0) {
+                            $("#craw_process").append('<p ><h4>爬蟲待機中</h4></p>');
+                            crawler_waiting =1;
+                        }
+                        else
+                            $("#craw_process").append('<p ><h4>正在抓取 ' + '=' + row + '的公告</h4></p>');           
+                    }
+                    else if(rowKey == "crawlering_count_now" && crawler_waiting == 0)
+                        $("#craw_process").append('<p ><h4>抓到第 '   + row + '筆公告</h4></p>');
+                    else if(rowKey == "crawlering_total_number" && crawler_waiting == 0)
+                        $("#craw_process").append('<p ><h4>這監獄一共有 '  + row + '筆公告</h4></p>');
+                }); 
+            },
+            complete: load
+        });
+    }, 3101);
+}
+load();
+</script>
     <div>
         <form action="immortal/" method="POST">
             {% csrf_token %}
@@ -10,6 +48,7 @@
             {% csrf_token %}
                 <button type="submit">抓取所有歷史監所公告</button>
         </form>
+        <spen id=craw_process></spen>
     </div>
     <br />
     {{ block.super }}

@@ -53,12 +53,22 @@ admin.site.register(prison, prisonAdmin)
 @admin.register(news)
 
 class newsAdmin(admin.ModelAdmin):
-    list_display = ('topic','prison_related','post_date')
+    list_display = ('topic','prison_related','post_date','show_topic_link')
     list_filter = ( ('post_date', MyDateTimeFilter),('prison_related',MyRelatedDropdownFilter  ),
         ('post_date', MyDateRangeFilter))
     change_list_template = "crawler_list.html"
     search_fields = ("topic",)
-
+    class Media:
+        js = (
+            '//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js', # jquery
+          #  '../polls/js/myscript.js',       # project static folder
+           # 'app/js/myscript.js',   # app static folder
+        )
+    def show_topic_link(self, obj):
+        return obj.news_url
+        #return ('<a href=\"%s\">%s</a>' % (obj.news_url, obj.topic) )
+    show_topic_link.allow_tags = True
+    show_topic_link.short_description = "連結"
 def get_urls(self):
     urls = super().get_urls()
     my_urls = [
